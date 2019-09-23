@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OWTContactsAPI", "OWTContactsAPI\OWTContactsAPI.csproj", "{8AB190B2-4591-49C1-818C-15A98910819A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OWTContactsAPI.Models", "OWTContactsAPI.Models\OWTContactsAPI.Models.csproj", "{D4D6FFEE-875B-4111-8176-B3B2973EF571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB190B2-4591-49C1-818C-15A98910819A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB190B2-4591-49C1-818C-15A98910819A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB190B2-4591-49C1-818C-15A98910819A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB190B2-4591-49C1-818C-15A98910819A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D6FFEE-875B-4111-8176-B3B2973EF571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D6FFEE-875B-4111-8176-B3B2973EF571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D6FFEE-875B-4111-8176-B3B2973EF571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D6FFEE-875B-4111-8176-B3B2973EF571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60AF1185-F14A-4D1A-AEB9-AC44E9B5CC19}
+	EndGlobalSection
+EndGlobal
